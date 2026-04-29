@@ -71,11 +71,11 @@ Invoke-WebRequest -Method Post -ContentType "application/json" -Body $body -OutF
 
 In *OpenWebUI* `Admin Panel` -> `Settings` -> `Audio`:
 
-- Text-to-Speech Engine: OpenAI
-- API Base URL: `http://127.0.0.1:8000/v1` (if docker, use `http://host.docker.internal:8000/v1`)
-- API Key: not-needed (you can type anything if a required field)
-- TTS Model: kokoro
-- TTS Voice: af_heart (or any voice from /voices)
+- **Text-to-Speech Engine**: `OpenAI`
+- **API Base URL**: `http://127.0.0.1:8000/v1` (if docker, use `http://host.docker.internal:8000/v1`)
+- **API Key**: *not-needed* (you can type anything if a required field)
+- **TTS Model**: `kokoro`
+- **TTS Voice**: `af_heart` (or any voice from /voices)
 
 
 ## Voices
