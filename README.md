@@ -2,10 +2,10 @@
 Local-only Kokoro TTS server.  
 
 **Featuring**:  
-- windows-wide selectable content TTS (global hotkey)
-- web UI 
+- Windows-wide selectable content TTS (global hotkey)
+- Web UI 
 - [**OpenWebUI**](https://openwebui.com/) integration.
-- API (and openai compatible)
+- API (and OpenAI compatible)
 
 
 
