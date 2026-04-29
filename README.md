@@ -67,7 +67,7 @@ Invoke-WebRequest -Method Post -ContentType "application/json" -Body $body -OutF
 ./speak.ps1 -Text "Hello from Kokoro"
 ```
 
-## OpenWebUI integration (local-only)
+## OpenWebUI integration (local)
 
 In *OpenWebUI* `Admin Panel` -> `Settings` -> `Audio`:
 
